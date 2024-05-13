@@ -11,6 +11,11 @@ Generally, you can imagine that dbus is a server sitting there, listening to mes
 ## Python Bindings
 
 - A quite old one is `pydbus`, it works though
+- [this wiki provides bunches of choices](https://wiki.python.org/moin/DbusExamples)
+
+TODO:
+- [try this binding](https://python-dbus-next.readthedocs.io/en/latest/high-level-client/index.html)
+
 
 
 ## References
